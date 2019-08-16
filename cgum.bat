@@ -1,0 +1,1 @@
+bash -c "/mnt/c/github/gumtreediff/cgum/cgum %1"
